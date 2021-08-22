@@ -1,5 +1,5 @@
 name: easy-bilibili-daily-task
-on:
+on:1
   push:
     branches: [ master ]
   schedule:
